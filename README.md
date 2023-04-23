@@ -1,1 +1,1 @@
-# coding-project-template
+# IBM Watson Project
